@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-write-file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A vue-cli plugin to have webpack-dev-server write files to disk",
   "main": "index.js",
   "scripts": {
