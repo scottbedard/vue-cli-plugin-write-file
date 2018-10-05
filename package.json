@@ -1,0 +1,18 @@
+{
+  "name": "vue-cli-plugin-write-file",
+  "version": "0.1.0",
+  "description": "A vue-cli plugin to have webpack-dev-server write files to disk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottbedard?tab=repositories"
+  },
+  "keywords": [
+    "vue-cli"
+  ],
+  "author": "Scott Bedard",
+  "license": "MIT"
+}
