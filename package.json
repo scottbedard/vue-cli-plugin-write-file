@@ -14,5 +14,8 @@
     "vue-cli"
   ],
   "author": "Scott Bedard",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "write-file-webpack-plugin": "^4.4.1"
+  }
 }
